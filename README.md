@@ -9,4 +9,4 @@ A cada pressionamento do Botão A, o dígito mostrado na matriz é incrementado.
 A cada pressionamento do Botão B, o dígito mostrado na matriz é decrementado.
 
 
-Vídeo: X
+Vídeo: https://youtube.com/shorts/sj-XaGOUT68
